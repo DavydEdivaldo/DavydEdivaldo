@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavydEdivaldo
 - 👀 I’m interested in ...tecnologia
-- 🌱 I’m currently learning javascript/PHp
+- 🌱 I’m currently learning javascript/PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...davydedivaldo@gmail.com
 
